@@ -1,3 +1,3 @@
 # senai-versoes-colaboracoes
-CURSO SENAI-2
+CURSO SENAI
 REDAME DE EXEMPLO
